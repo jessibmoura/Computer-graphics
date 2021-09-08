@@ -1,2 +1,5 @@
-[README.md](https://github.com/jessibmoura/Computer-graphics/files/7131017/README.md)
 # Computer-graphics
+
+Série de exercícios abordando computação gráfica, da matéria Introdução à Computação Gráfica, ofertada pelo Instituto de Computação da UFAM.
+Linguagem: Python
+Bibliotecas: OpenGl, pygame
