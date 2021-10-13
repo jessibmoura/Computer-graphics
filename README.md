@@ -9,3 +9,4 @@ Instalação das bibliotecas (no ambiente Linux):
 - **square.py:** Abre uma janela com o desenho de um quadrado
 - **circle_gl_line.py** Abre uma janela com o desenho de um círculo
 - **circle_gl_polygon.py** Abre uma janela com o desenho de um círculo, preenchido
+- **foguetinho.py** Abre uma janela com a figura de um foguete, com uma animação simples do foguete decolando
